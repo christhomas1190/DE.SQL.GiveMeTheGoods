@@ -1,2 +1,2 @@
 SELECT * FROM Students
-WHERE CITY = 'Philadelphia'OR city = 'Trenton';
+WHERE CITY = 'Philadelphia'OR City = 'Trenton';
