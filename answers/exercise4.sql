@@ -1,3 +1,3 @@
 SELECT City
 FROM Students
-ORDER BY City DESC
+ORDER BY City DESC;
